@@ -1,2 +1,2 @@
 # firstwork
-这里介绍git fetch的用法
+This is the first time that I use github
